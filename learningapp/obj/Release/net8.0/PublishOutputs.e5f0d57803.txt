@@ -1,0 +1,7 @@
+C:\Users\olada\OneDrive\Desktop\AZURE\AZURE_204_developer\vscode_applications\dotnet\learningapp\bin\learningapp.exe
+C:\Users\olada\OneDrive\Desktop\AZURE\AZURE_204_developer\vscode_applications\dotnet\learningapp\bin\appsettings.Development.json
+C:\Users\olada\OneDrive\Desktop\AZURE\AZURE_204_developer\vscode_applications\dotnet\learningapp\bin\appsettings.json
+C:\Users\olada\OneDrive\Desktop\AZURE\AZURE_204_developer\vscode_applications\dotnet\learningapp\bin\learningapp.dll
+C:\Users\olada\OneDrive\Desktop\AZURE\AZURE_204_developer\vscode_applications\dotnet\learningapp\bin\learningapp.deps.json
+C:\Users\olada\OneDrive\Desktop\AZURE\AZURE_204_developer\vscode_applications\dotnet\learningapp\bin\learningapp.runtimeconfig.json
+C:\Users\olada\OneDrive\Desktop\AZURE\AZURE_204_developer\vscode_applications\dotnet\learningapp\bin\learningapp.pdb
